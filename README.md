@@ -1,16 +1,22 @@
-## Hi there 👋
+https://www.linkedin.com/in/%20balaji-deshmukh-38952a249/https://www.linkedin.com/in/%20balaji-deshmukh-38952a249/## Hi there, I'm Balaji Deshmukh! 👋
+🚀 Froend-end
 
+👩‍💻 About Me
+🎓 Bsc Graduate from Sri Ram Narayana college Banswada, Telangana University (2019)
+🌱 Currently Learning: React.js, Node.js, and Blockchain Development
+🎯 Motivated By: Innovation and solving real-world problems through technology
+🎵 Hobbies: Gardening, music, and exploring new tech
 
-**Balaji376/Balaji376** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech Stack
+Languages: HTML, CSS, JavaScript, Solidity
+Libraries/Frameworks: React.js, Redux, Tailwind CSS,next.js
+Tools: Git, VS Code, Recharts
+🌟 GitHub Stats
+Balaji's GitHub Stats
+Top Languages
 
-Here are some ideas to get you started:
+📫 Let's Connect!
+🌐 Portfolio ["https://balaji-portfolio-six.vercel.app/"]
+💼 LinkedIn ["https://www.linkedin.com/in/balaji-deshmukh-38952a249/"]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
