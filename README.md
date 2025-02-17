@@ -18,6 +18,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
 
 ## 📫 Let's Connect!  
-🌐 **Portfolio:** [balaji-portfolio-six.vercel.app](https://balaji-portfolio-six.vercel.app/)  
-💼 **LinkedIn:** [linkedin.com/in/balaji-deshmukh-38952a249](https://www.linkedin.com/in/balaji-deshmukh-38952a249/)  
-📧 **Email:** your-email@example.com  
+🌐[ **Portfolio:** ](https://balaji-portfolio-six.vercel.app/)  
+💼[ **LinkedIn:**](https://www.linkedin.com/in/balaji-deshmukh-38952a249/)  
+ 
